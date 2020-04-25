@@ -1,5 +1,7 @@
 ## Learning Objectives ##
 
+[Learning Nagios](https://www.linkedin.com/learning/learning-nagios)
+
 1. Installing Nagios
   - What is Nagios
   - Nagios concepts
